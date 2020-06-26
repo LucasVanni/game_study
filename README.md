@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    Link to [Play](https://editor.p5js.org/LucasVanni/full/wQalM9PvA)
+    Link to <a src="https://editor.p5js.org/LucasVanni/full/wQalM9PvA">Play</a>
 </p>
 
 
