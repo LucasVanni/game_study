@@ -2,7 +2,7 @@
 <h1 align="center">Login Screen</h2>
 
 <p align="center">
-    Game develoved in imersion Game Dev by Alura
+    Game develoved in imersion Game Dev by <a href="https://www.alura.com.br/imersao-gamedev-javascript/" >Alura</a>
 </p>
 
 
