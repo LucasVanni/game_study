@@ -1,5 +1,7 @@
+
+<h1 align="center">Login Screen</h2>
+
 <p align="center">
-    <h1>Game Study</h1>
     Game develoved in imersion Game Dev by Alura
 </p>
 
