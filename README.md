@@ -1,5 +1,4 @@
-
-<h1 align="center">Login Screen</h2>
+<h1 align="center" >Hipsta's Adventure</h1>
 
 <p align="center">
     Game develoved in imersion Game Dev by <a href="https://www.alura.com.br/imersao-gamedev-javascript/" >Alura</a>
@@ -27,4 +26,8 @@
     Link to <a href="https://editor.p5js.org/LucasVanni/full/wQalM9PvA">Play</a>
 </p>
 
+<h3 align="center">Certificate: </h3>
 
+<p align="center">  
+    <img src="https://github.com/LucasVanni/game_study/blob/master/otherImages/Certificate.png?raw=true" align="center" height="700" alt="Gameover Screen"  />
+</p>
